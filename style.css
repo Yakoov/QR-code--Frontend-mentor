@@ -10,7 +10,7 @@
 body{
     font-size: 15px;
     @import url(https://fonts.google.com/specimen/Outfit);
-    background-color: hsla(219, 38%, 47%, 0.274);
+    background-color: hsla(218, 42%, 7%, 0.274);
     font-family:'Outfit', sans-serif;
     margin: auto;
     height: 100vh;
